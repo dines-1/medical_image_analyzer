@@ -1,7 +1,5 @@
-# medical_image_analyzer
+# Medical_image_analyzer
 Medical imaging plays a central role in diagnosis across radiology, ophthalmology, and orthopedics. It helps to identifies the Brain tumor classes with brain MRI scan , fracture from x rays, Retina fundus screening for diabetics classification 
-# Medical Image Analyzer
-
 Medical Image Analyzer is a deep learning project for classifying three types of medical images:
 
 - Brain MRI scans for tumour classification
